@@ -6,6 +6,7 @@ import { HeaderComponent } from './header/header.component';
 import { HomeComponent } from './home/home.component';
 import { ServicesComponent } from './services/services.component';
 import { CreditCardComponent } from './credit-card/credit-card.component';
+import { InsuranceComponent } from './insurance/insurance.component';
 
 @NgModule({
   declarations: [
@@ -13,7 +14,8 @@ import { CreditCardComponent } from './credit-card/credit-card.component';
     HeaderComponent,
     HomeComponent,
     ServicesComponent,
-    CreditCardComponent
+    CreditCardComponent,
+    InsuranceComponent
   ],
   imports: [
     BrowserModule

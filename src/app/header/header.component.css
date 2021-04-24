@@ -1,0 +1,16 @@
+.navbar{
+    background-color: transparent !important;
+
+}
+.nav-logo{
+  height: 60px;
+  width: 120px;
+  margin-top: 10px;
+  margin-left: 40px;
+}
+@media (max-device-width: 360px) { 
+
+  .nav-logo{
+    display: none;
+  }
+}

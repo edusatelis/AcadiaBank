@@ -8,6 +8,7 @@ import { ServicesComponent } from './services/services.component';
 import { CreditCardComponent } from './credit-card/credit-card.component';
 import { InsuranceComponent } from './insurance/insurance.component';
 import { MobileComponent } from './mobile/mobile.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -17,10 +18,12 @@ import { MobileComponent } from './mobile/mobile.component';
     ServicesComponent,
     CreditCardComponent,
     InsuranceComponent,
-    MobileComponent
+    MobileComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule
+    
   ],
   providers: [],
   bootstrap: [AppComponent]

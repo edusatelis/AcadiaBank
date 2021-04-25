@@ -32,7 +32,7 @@ a{
     height: 250px;
 }
 
-@media(min-width: 360px){
+@media(max-width: 360px){
     .between{
         margin-top: -20px;
         height: 100px;

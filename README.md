@@ -1,7 +1,5 @@
 # AcadiaBank
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10 in order to demonstrate my frontend skills, creating a SinglePage for a fictional bank in which I named Acadia Bank in honor of the company [4cadia Factory](https://4cadia.com/), where I intend to guarantee a job vacancy
 ## Development server
 

@@ -7,6 +7,7 @@ import { HomeComponent } from './home/home.component';
 import { ServicesComponent } from './services/services.component';
 import { CreditCardComponent } from './credit-card/credit-card.component';
 import { InsuranceComponent } from './insurance/insurance.component';
+import { MobileComponent } from './mobile/mobile.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { InsuranceComponent } from './insurance/insurance.component';
     HomeComponent,
     ServicesComponent,
     CreditCardComponent,
-    InsuranceComponent
+    InsuranceComponent,
+    MobileComponent
   ],
   imports: [
     BrowserModule
